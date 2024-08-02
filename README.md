@@ -12,7 +12,7 @@ DDoser 打爆看不顺眼的网站
 1. 首先，安装python环境→[官网下载](https://www.python.org)
 2. 克隆本仓库到你喜欢的位置
 3. 启动cmd
-4. 按照`<python.exe位置>`+'<hulk位置>`+`网站url`+
+4. 按照`<python.exe位置>` + `<hulk位置>` + `网站url` (+ `safe`)
 
 #### 示例
 
